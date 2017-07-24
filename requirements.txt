@@ -1,2 +1,5 @@
 mimesis
 pymysql
+numpy
+scipy
+scikit-learn
